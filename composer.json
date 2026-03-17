@@ -1,5 +1,9 @@
 {
-    "require": {
-        "phpmailer/phpmailer": "^6.9"
-    }
+  "name": "cjffcnx/manoranjanfiles",
+  "description": "PHP project using PHPMailer for sending emails.",
+  "type": "project",
+  "license": "proprietary",
+  "require": {
+    "phpmailer/phpmailer": "^6.9"
+  }
 }
